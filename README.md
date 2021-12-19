@@ -1,4 +1,4 @@
-### Hi there 👋
+### Can Guney Sungar
 
 <!--
 **csungar/csungar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
