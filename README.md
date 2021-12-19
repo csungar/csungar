@@ -1,5 +1,5 @@
 ### Can Guney Sungar
-#### I am an industrial engineer.
+#### Industrial Engineer.
 
 Aspiring Business Analyst. Neuroscience, and Machine Learning enthusiast. 
 
