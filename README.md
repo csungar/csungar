@@ -1,7 +1,6 @@
-### Hi there 👋, Can Guney Sungar
+### Can Guney Sungar
 #### I am an industrial engineer.
-![I am an industrial engineer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+![I am an industrial engineer.]
 Aspiring Business Analyst. Neuroscience, and Machine Learning enthusiast. 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
