@@ -15,5 +15,4 @@ Industrial Engineer and Aspiring Business Analyst. Neuroscience, and Machine Lea
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=csungar)  
 
-![Profile views](https://gpvc.arturio.dev/csungar)
-
+![Profile views](https://gpvc.arturio.dev/csungar)  
