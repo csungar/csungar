@@ -9,7 +9,7 @@ Industrial Engineer and Aspiring Business Analyst. Neuroscience, and Machine Lea
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/csungar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/guneysungar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/can.guney.sungar#!/?newProfile=&activeTab=0) 
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csungar)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csungar)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=csungar&show_icons=true)  
 
