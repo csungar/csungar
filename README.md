@@ -2,7 +2,7 @@
 Industrial Engineer and Aspiring Business Analyst. Neuroscience, and Machine Learning enthusiast.
  
 ## Skills and Experience
-- 🖥️ Python, C++, ARENA, MiniTab, CPLEX OPL
+- 🖥️ Python, C++, ARENA, MiniTab, CPLEX OPL, MATLAB
 - 💼 Product Manager, Publishing Manager, Digital Marketing
 
 ## Links to My Profiles
