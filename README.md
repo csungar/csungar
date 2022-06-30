@@ -1,5 +1,5 @@
 # Can Guney Sungar
-Industrial Engineer and Aspiring Business Analyst. Neuroscience, and Machine Learning enthusiast.
+Industrial Engineer and Business Analyst. Neuroscience, and Machine Learning enthusiast.
  
 ## Skills and Experience
 - 🖥️ Python, C++, ARENA, MiniTab, CPLEX OPL, MATLAB
